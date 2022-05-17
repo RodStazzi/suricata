@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> */
+
+.bg-pink{
+    background-color: #E83E8c;
+}
+
+.icons-section {
+    background-color: #17a2bb;
+}
+
+.grey {
+    color: dimgrey;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: OpenSans-Regular, sans-serif;
+}
+
+body *{
+    margin: 0;
+    padding: 0;
+}
+
+nav img {
+    height: 3.313rem;
+    padding-left: 10%;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2.188rem;
+    color: #707070;
+}
+
+.icons-section h2{
+    font-size: 2.5rem;
+    color: #ffffff;
+    margin: 0rem;
+}
+
+h5{
+    font-weight: 700;
+    font-size: 1rem;
+    text-align: left;
+    color: #373A3c;
+}
+
+.descripcion-comida{
+    font-weight: 400;
+    font-size: 1rem;
+    text-align: left;
+    color: #373A3c;
+}
+
+.detalle-comida,
+.link-comida {
+font-weight: 400;
+font-size: 0.875;
+text-align: left;
+
+}
+
+.link-comida {
+    color: #1C7CD5;
+    text-decoration: none;
+}
+
+.tarjetas {
+    background-color: #17A2B8;
+}
+
+.icon-credit-card {
+    color: #ffffff;
+    font-size: 3.5rem;
+}
+
+.footer{
+    background-color: #E83E8C;
+}
+
+.footer img {
+    height: 6.278rem;;
+}
+
+.contact {
+    padding-right: 5 rem;
+}
+
